@@ -1,0 +1,21 @@
+{
+  "name": "tsc-number-guess-game-mahmed",
+  "version": "1.0.0",
+  "description": "This is practice project.",
+  "main": "index.js",
+  "type": "module",
+  "bin":  "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "M.Ahmed",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "inquirer": "^9.1.4",
+    "typescript": "^4.9.4"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3"
+  }
+}

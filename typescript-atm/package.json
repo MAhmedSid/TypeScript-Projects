@@ -1,0 +1,24 @@
+{
+  "name": "typescript-atm-proj-mahmed",
+  "version": "1.0.0",
+  "description": "This is a practice project in learning typescript.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "M.Ahmed Siddiqui",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "inquirer": "^9.1.4",
+    "random-int": "^3.0.0",
+    "typescript": "^4.9.4"
+  },
+  "devDependencies": {
+    "@types/chalk": "^2.2.0",
+    "@types/inquirer": "^9.0.3",
+    "@types/node": "^18.11.15"
+  }
+}
